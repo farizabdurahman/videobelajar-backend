@@ -1,6 +1,5 @@
 // services/courseService.js
-//
-// LANGKAH KEDUA: Implementing Data Manipulation Language (DML)
+// Implementing Data Manipulation Language (DML)
 // Semua query ke database (SELECT, UPDATE, DELETE, INSERT) dikumpulkan
 // di sini sebagai "service". Route hanya memanggil fungsi-fungsi ini,
 // tidak menulis query SQL langsung.

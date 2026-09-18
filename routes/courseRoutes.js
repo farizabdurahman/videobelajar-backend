@@ -1,6 +1,5 @@
 // routes/courseRoutes.js
-//
-// LANGKAH KETIGA: Implementing REST API
+// Implementing REST API
 // Endpoint di sini mengikuti tabel referensi "EduCourse App":
 //   GET    /course        -> list semua courses
 //   GET    /course/:id    -> tampilkan satu course by id
