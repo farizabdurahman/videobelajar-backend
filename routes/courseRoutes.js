@@ -1,11 +1,10 @@
 // routes/courseRoutes.js
 // Implementing REST API
-// Endpoint di sini mengikuti tabel referensi "EduCourse App":
-//   GET    /course        -> list semua courses
-//   GET    /course/:id    -> tampilkan satu course by id
-//   PATCH  /course/:id    -> ubah data course by id
-//   DELETE /course/:id    -> hapus data course by id
-//   POST   /course        -> tambah data course
+// GET    /course        -> list semua courses
+// GET    /course/:id    -> tampilkan satu course by id
+// PATCH  /course/:id    -> ubah data course by id
+// DELETE /course/:id    -> hapus data course by id
+// POST   /course        -> tambah data course
 
 const express = require("express");
 const router = express.Router();
